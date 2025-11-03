@@ -28,16 +28,33 @@ ta-pemweb-percobaan-2/
 # WORKFLOW GIT
 
 1. Instalasi dan Konfigurasi Git
-   ![Alt text](img/1.jpg)
+   Install Git (jika belum terinstall):
+   * Windows: Download dari https://git-scm.com
+   * macOS: brew install git
+   * Linux: sudo apt-get install git
 
-2. Membuat Repository Lokal
+   ![Alt text](img/1.jpg)
+   
+   ```bash
+   git config --global user.name "Nama Anda"
+   git config --global user.email "email@example.com"
+   git config --list
+     ```
+3. Membuat Repository Lokal
    - Buat direktori project baru:
       ![Alt text](img/2.jpg)
+
+   ```bash
+   mkdir my-web-project cd my-web-project
+    ```
+     
    - Inisialisasi Git repository:
       ![Alt text](img/3.jpg)
 
-
-3. Commit dan History
+  ```bash
+  git init ls -la # lihat folder .git yang terbentuk
+   ```
+4. Commit dan History
    
    ![Alt text](img/4.jpg)
    
