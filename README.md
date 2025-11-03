@@ -46,9 +46,10 @@ ta-pemweb-percobaan-2/
    ![Alt text](img/5(3).jpg)
    
 5. Branching dan Merging
+   
     ![Alt text](img/5(2).jpg)
 
-6. Remote Repository dengan GitHub
+7. Remote Repository dengan GitHub
    
    ![Alt text](img/5.jpg)
 
