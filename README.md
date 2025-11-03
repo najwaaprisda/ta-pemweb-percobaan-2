@@ -1,4 +1,4 @@
-# Portofolio Najwa Aprisda
+# Personal Portofolio Website - Najwa Aprisda Ramdhani
 
 Proyek ini merupakan website portofolio pribadi yang menampilkan informasi tentang profil, keahlian, proyek, dan kontak.  
 Dibangun sebagai bagian dari tugas *Praktikum Pemrograman Web* dengan tujuan memperkenalkan diri secara profesional menggunakan teknologi web dasar.
@@ -7,8 +7,8 @@ Dibangun sebagai bagian dari tugas *Praktikum Pemrograman Web* dengan tujuan mem
 pemweb-percobaan2/  
 ├── index.html  
 ├── style.css  
-├── foto.jpg  
-└── README.md\
+├── foto.jpg  
+└── README.md 
 
 ## **Section pada index.html**
 1. **Container Utama (`.container`)**
