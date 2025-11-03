@@ -45,7 +45,8 @@ ta-pemweb-percobaan-2/
       ![Alt text](img/2.jpg)
 
       ```bash
-      mkdir my-web-project cd my-web-project
+      mkdir my-web-project
+      cd my-web-project
       ```
      
    - Inisialisasi Git repository:
@@ -54,6 +55,11 @@ ta-pemweb-percobaan-2/
      ```bash
      git init ls -la # lihat folder .git yang terbentuk
      ```
+     ```bash
+     git status
+     git add index.html
+     git status
+     ```
 4. Commit dan History
    
    ![Alt text](img/4.jpg)
@@ -61,15 +67,55 @@ ta-pemweb-percobaan-2/
    ![Alt text](img/4(2).jpg)
    
    ![Alt text](img/5(3).jpg)
+   ```bash
+   git commit -m "Initial commit: Add index.html"
+   git log git
+   log --oneline
+   ```
+   Commit Perubahan:
+   ```bash
+   git add .
+   git commit -m "Add CSS styling and link to index.html"
+   git log --oneline
+   ```
+
+5. Remote Repository dengan GitHub
    
-5. Branching dan Merging
+   ![Alt text](img/5.jpg)
+
+   Hubungkan repository lokal ke remote:
+   ```bash
+   git remote add origin https://github.com/username/my-web-project.git
+   git remote -v
+   ```
+   Push ke remote repository:
+   ```bash
+   git push -u origin main
+   ```
+   
+7. Branching dan Merging
    
     ![Alt text](img/5(2).jpg)
 
-7. Remote Repository dengan GitHub
-
-   ![Alt text](img/5.jpg)
-
+   ```bash
+   git branch feature-navigation git checkout feature-navigation # atau gunakan:
+   git checkout -b feature-navigation
+   ```
+   Commit di feature branch:
+   ```bash
+   git add .
+   git commit -m "Add navigation menu"
+   ```
+   Merge ke main branch:
+   ```bash
+   git checkout main
+   git merge feature-navigation
+   git branch -d feature-navigation
+   ```
+   Pull perubahan ke local:
+   ```bash
+   git pull origin main
+   ```
 ## Contact 
 
 * Email : najwaaprisdaa@gmail.com
