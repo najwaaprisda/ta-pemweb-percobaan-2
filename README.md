@@ -39,21 +39,21 @@ ta-pemweb-percobaan-2/
    git config --global user.name "Nama Anda"
    git config --global user.email "email@example.com"
    git config --list
-     ```
+   ```
 3. Membuat Repository Lokal
    - Buat direktori project baru:
       ![Alt text](img/2.jpg)
 
    ```bash
    mkdir my-web-project cd my-web-project
-    ```
+   ```
      
    - Inisialisasi Git repository:
       ![Alt text](img/3.jpg)
 
   ```bash
   git init ls -la # lihat folder .git yang terbentuk
-   ```
+  ```
 4. Commit dan History
    
    ![Alt text](img/4.jpg)
