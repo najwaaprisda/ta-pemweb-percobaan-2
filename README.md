@@ -4,6 +4,7 @@ Proyek ini merupakan website portofolio pribadi yang menampilkan informasi tenta
 Dibangun sebagai bagian dari tugas *Praktikum Pemrograman Web* dengan tujuan memperkenalkan diri secara profesional menggunakan teknologi web dasar.
 
 # Struktur Folder
+
 ta-pemweb-percobaan-2/  
 ├── index.html  
 ├── style.css  
