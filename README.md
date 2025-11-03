@@ -4,10 +4,11 @@ Proyek ini merupakan website portfolio pribadi yang menampilkan informasi tentan
 Dibangun sebagai bagian dari tugas *Praktikum Pemrograman Web* dengan tujuan memperkenalkan diri secara profesional menggunakan teknologi web dasar.
 
 # Struktur Folder
-│
-├── index.html # Halaman utama berisi seluruh konten website
-├── style.css # File stylesheet untuk mengatur tampilan
-└── README.md # Dokumentasi proyek
+ta-pemweb-percobaan-2/  
+├── index.html  
+├── style.css  
+├── foto.jpg  
+└── README.md\
 
 ## **Section pada index.html**
 1. **Container Utama (`.container`)**
