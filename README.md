@@ -36,9 +36,12 @@ ta-pemweb-percobaan-2/
    - Inisialisasi Git repository:
       ![Alt text](img/3.jpg)
 
+
 3. Commit dan History
    ![Alt text](img/4.jpg)
+   
    ![Alt text](img/4(2).jpg)
+   
    ![Alt text](img/5(3).jpg)
    
 5. Branching dan Merging
