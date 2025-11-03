@@ -5,11 +5,13 @@ Dibangun sebagai bagian dari tugas *Praktikum Pemrograman Web* dengan tujuan mem
 
 # Struktur Folder
 
-ta-pemweb-percobaan-2/  
-├── index.html  
-├── style.css  
-├── foto.jpg  
-└── README.md\
+```text
+ta-pemweb-percobaan-2/
+├── index.html
+├── style.css
+├── foto.jpg
+└── README.md
+
 
 ## **Section pada index.html**
 1. **Container Utama (`.container`)**
