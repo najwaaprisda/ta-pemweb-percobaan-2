@@ -1,6 +1,6 @@
-# Portfolio Najwa Aprisda
+# Portofolio Najwa Aprisda
 
-Proyek ini merupakan website portfolio pribadi yang menampilkan informasi tentang profil, keahlian, proyek, dan kontak.  
+Proyek ini merupakan website portofolio pribadi yang menampilkan informasi tentang profil, keahlian, proyek, dan kontak.  
 Dibangun sebagai bagian dari tugas *Praktikum Pemrograman Web* dengan tujuan memperkenalkan diri secara profesional menggunakan teknologi web dasar.
 
 # Struktur Folder
@@ -38,6 +38,7 @@ ta-pemweb-percobaan-2/
 
 
 3. Commit dan History
+   
    ![Alt text](img/4.jpg)
    
    ![Alt text](img/4(2).jpg)
@@ -48,5 +49,6 @@ ta-pemweb-percobaan-2/
     ![Alt text](img/5(2).jpg)
 
 6. Remote Repository dengan GitHub
+   
    ![Alt text](img/5.jpg)
 
