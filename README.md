@@ -50,6 +50,12 @@ ta-pemweb-percobaan-2/
     ![Alt text](img/5(2).jpg)
 
 7. Remote Repository dengan GitHub
-   
+
    ![Alt text](img/5.jpg)
+
+## Contact 
+
+* Email : najwaaprisdaa@gmail.com
+* Instagram : https://www.instagram.com/najwaapdr?igsh=MXU0YXIwanJncGowMg== 
+* Linkedin : www.linkedin.com/in/najwa-aprisda-ramdhani-7088b3293 
 
