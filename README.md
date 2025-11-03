@@ -44,16 +44,16 @@ ta-pemweb-percobaan-2/
    - Buat direktori project baru:
       ![Alt text](img/2.jpg)
 
-   ```bash
-   mkdir my-web-project cd my-web-project
-   ```
+      ```bash
+      mkdir my-web-project cd my-web-project
+      ```
      
    - Inisialisasi Git repository:
       ![Alt text](img/3.jpg)
 
-  ```bash
-  git init ls -la # lihat folder .git yang terbentuk
-  ```
+     ```bash
+     git init ls -la # lihat folder .git yang terbentuk
+     ```
 4. Commit dan History
    
    ![Alt text](img/4.jpg)
